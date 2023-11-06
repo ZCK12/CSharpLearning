@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\bin\Debug\net6.0\Voting Validator.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\bin\Debug\net6.0\Voting Validator.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\bin\Debug\net6.0\Voting Validator.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\bin\Debug\net6.0\Voting Validator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\bin\Debug\net6.0\Voting Validator.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\refint\Voting Validator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\Voting Validator.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 8\Voting Validator\obj\Debug\net6.0\ref\Voting Validator.dll

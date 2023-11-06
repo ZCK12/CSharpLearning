@@ -1,0 +1,1 @@
+`{` This is an opening brace. In C#, scopes are defined using braces (`{` and `}`). This means that the code belonging to the defined immediately before will be written between `{` and the corresponding closing brace `}`.

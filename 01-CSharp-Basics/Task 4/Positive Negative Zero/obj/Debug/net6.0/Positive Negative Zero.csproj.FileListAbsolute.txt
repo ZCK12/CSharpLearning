@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\bin\Debug\net6.0\Positive Negative Zero.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\bin\Debug\net6.0\Positive Negative Zero.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\bin\Debug\net6.0\Positive Negative Zero.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\bin\Debug\net6.0\Positive Negative Zero.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\bin\Debug\net6.0\Positive Negative Zero.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\refint\Positive Negative Zero.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\Positive Negative Zero.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 4\Positive Negative Zero\obj\Debug\net6.0\ref\Positive Negative Zero.dll

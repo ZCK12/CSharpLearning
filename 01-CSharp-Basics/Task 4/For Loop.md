@@ -1,0 +1,3 @@
+The `for` loop is a control flow statement for specifying iteration, which allows code to be executed repeatedly. The loop in your program is set to iterate 10 times unless the loop is exited prematurely with the `break` statement.
+
+- `for (int i = 0; i < 10; i++)`: Initializes an integer `i` to 0, continues the loop as long as `i` is less than 10, and increments `i` by 1 after each loop iteration.

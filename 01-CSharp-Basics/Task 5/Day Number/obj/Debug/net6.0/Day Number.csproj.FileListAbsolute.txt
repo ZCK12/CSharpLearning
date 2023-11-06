@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\bin\Debug\net6.0\Day Number.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\bin\Debug\net6.0\Day Number.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\bin\Debug\net6.0\Day Number.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\bin\Debug\net6.0\Day Number.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\bin\Debug\net6.0\Day Number.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\refint\Day Number.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\Day Number.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 5\Day Number\obj\Debug\net6.0\ref\Day Number.dll

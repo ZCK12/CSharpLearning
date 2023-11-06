@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\bin\Debug\net6.0\Console Calculator.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\bin\Debug\net6.0\Console Calculator.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\bin\Debug\net6.0\Console Calculator.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\bin\Debug\net6.0\Console Calculator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\bin\Debug\net6.0\Console Calculator.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\refint\Console Calculator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\Console Calculator.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 7\Console Calculator\obj\Debug\net6.0\ref\Console Calculator.dll

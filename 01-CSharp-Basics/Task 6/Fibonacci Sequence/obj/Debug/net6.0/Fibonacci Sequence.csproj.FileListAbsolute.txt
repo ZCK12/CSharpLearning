@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\bin\Debug\net6.0\Fibonacci Sequence.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\refint\Fibonacci Sequence.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\Fibonacci Sequence.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Fibonacci Sequence\obj\Debug\net6.0\ref\Fibonacci Sequence.dll

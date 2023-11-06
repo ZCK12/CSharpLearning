@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\bin\Debug\net6.0\Multiplication Table Generator.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\bin\Debug\net6.0\Multiplication Table Generator.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\bin\Debug\net6.0\Multiplication Table Generator.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\bin\Debug\net6.0\Multiplication Table Generator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\bin\Debug\net6.0\Multiplication Table Generator.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\refint\Multiplication Table Generator.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\Multiplication Table Generator.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\01-CSharp-Basics\Task 6\Multiplication Table Generator\obj\Debug\net6.0\ref\Multiplication Table Generator.dll
