@@ -1,0 +1,1 @@
+# Final Project\nThis directory will contain the culmination of the learning journey, the final desktop application for running complex SQL scripts, with an emphasis on project planning, implementation, and debugging.

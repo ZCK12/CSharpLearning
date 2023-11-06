@@ -1,0 +1,1 @@
+# Polish and Advanced Topics\nThe final touches to the projects including refinement, deployment, and exploration of advanced topics such as ORM with Entity Framework, custom control creation, and advanced async patterns will be found here.
