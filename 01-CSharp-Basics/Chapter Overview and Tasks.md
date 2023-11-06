@@ -20,7 +20,7 @@ These are foundational concepts for flow control in your programs.
 
 **Task 5**: Learn about `switch` cases by [[Day Number Program|creating an application that outputs the name of the day based on a number input]] (1 for Sunday, 2 for Monday, etc.).
 
-**Task 6**: Understand loops (`for`, `while`, `do-while`) by [[Fibonacci Sequence|writing a program that prints the first 10 numbers of the Fibonacci sequence]].
+**Task 6**: Understand loops (`for`, `while`, `do-while`) by [[Multiplication Table Program|writing a multiplication table program]], and writing a [[Fibonacci Sequence|program that prints the first 10 numbers of the Fibonacci sequence]].
 
 ### Operators
 
@@ -28,10 +28,4 @@ Operators allow you to perform different kinds of operations on variables and va
 
 **Task 7**: Experiment with arithmetic operators by creating a [[Console Calculator|simple calculator that can perform addition, subtraction, multiplication, and division]].
 
-**Task 8**: Use relational and logical operators in a program that checks if a user is eligible to vote (age should be greater than or equal to 18 and nationality should be of a certain country).
-
-### Projects
-
-Let's solidify the basics with a project.
-
-**Task 9**: Build a console application that takes user input and performs various operations based on that input. For instance, a simple expense tracker where users can add expenses and incomes and see their balance.
+**Task 8**: Use relational and logical operators in a [[Voting Eligibility Program|program that checks if a user is eligible to vote]] (age should be greater than or equal to 18 and nationality should be of a certain country).

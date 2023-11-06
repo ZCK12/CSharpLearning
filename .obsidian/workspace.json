@@ -23,12 +23,8 @@
             "id": "d36fad0448b0e8a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-CSharp-Basics/Chapter Overview and Tasks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-CSharp-Basics/Chapter Overview and Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-CSharp-Basics/Chapter Overview and Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-CSharp-Basics/Chapter Overview and Tasks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,10 +153,12 @@
   },
   "active": "d36fad0448b0e8a8",
   "lastOpenFiles": [
-    "01-CSharp-Basics/Dot Net.md",
+    "01-CSharp-Basics/Task 6/Multiplication Table Program.md",
     "01-CSharp-Basics/Chapter Overview and Tasks.md",
-    "02-Object-Oriented-Programming/README.md",
     "01-CSharp-Basics/Task 8/Voting Eligibility Program.md",
+    "README.md",
+    "01-CSharp-Basics/Dot Net.md",
+    "02-Object-Oriented-Programming/README.md",
     "01-CSharp-Basics/Task 7/Console Calculator.md",
     "01-CSharp-Basics/Task 8",
     "01-CSharp-Basics/Task 7",
@@ -172,7 +166,6 @@
     "01-CSharp-Basics/Task 4/Postive Negative Zero Program.md",
     "01-CSharp-Basics/Task 5/Day Number Program.md",
     "01-CSharp-Basics/Task 6/Fibonacci Sequence.md",
-    "01-CSharp-Basics/Task 6/Multiplication Table Program.md",
     "01-CSharp-Basics/Task 6",
     "01-CSharp-Basics/Task 5/Switch Statement.md",
     "01-CSharp-Basics/Task 5",
