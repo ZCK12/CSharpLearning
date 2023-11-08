@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
+                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
+                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
+                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md"
+                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dfc9f8db8350a65",
+  "active": "22c588ab2ce3a163",
   "lastOpenFiles": [
+    "02-Object-Oriented-Programming/Task 2/Custom Methods Program.md",
+    "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
+    "01-CSharp-Basics/Chapter Overview and Tasks.md",
+    "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
     "02-Object-Oriented-Programming/Task 5/Encapsulated Car/bin/Debug/net6.0",
     "02-Object-Oriented-Programming/Task 5/Encapsulated Car/bin/Debug",
     "02-Object-Oriented-Programming/Task 5/Encapsulated Car/bin",
@@ -157,26 +161,21 @@
     "02-Object-Oriented-Programming/Task 5/Access Modifiers.md",
     "CSharpLearning.7z",
     "02-Object-Oriented-Programming/Task 4/Charging Interface Program.md",
-    "01-CSharp-Basics/Chapter Overview and Tasks.md",
     "01-CSharp-Basics/Task 4/Postive Negative Zero Program.md",
     "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Debug/net6.0/ref/Car Dealership Manager.dll",
     "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Debug/net6.0/ref",
     "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/bin/Debug/net6.0/Car Dealership Manager.runtimeconfig.json",
-    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/bin/Debug/net6.0/Car Dealership Manager.pdb",
-    "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
     "02-Object-Oriented-Programming/Task 4/Sub-classing.md",
     "02-Object-Oriented-Programming/Task 4/Interfaces.md",
     "02-Object-Oriented-Programming/Task 3/Virtual Keyword.md",
     "02-Object-Oriented-Programming/Task 3/Polymorphism.md",
     "02-Object-Oriented-Programming/Task 3/Expression-bodied properties.md",
     "02-Object-Oriented-Programming/Task 3/Electric Car Program.md",
-    "02-Object-Oriented-Programming/Task 2/Custom Methods Program.md",
     "02-Object-Oriented-Programming/Task 1/Properties and Accessors.md",
     "02-Object-Oriented-Programming/Task 1/Main String Args.md",
     "02-Object-Oriented-Programming/Task 1/Classes and Objects Program.md",
     "02-Object-Oriented-Programming/Task 1/Custom Classes.md",
     "02-Object-Oriented-Programming/Task 1/Class Methods.md",
-    "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
     "02-Object-Oriented-Programming/README.md",
     "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md",
     "02-Object-Oriented-Programming/Task 6/List Collections.md",
