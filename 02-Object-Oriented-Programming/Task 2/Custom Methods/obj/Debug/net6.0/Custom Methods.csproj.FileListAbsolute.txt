@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\bin\Debug\net6.0\Custom Methods.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\bin\Debug\net6.0\Custom Methods.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\bin\Debug\net6.0\Custom Methods.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\bin\Debug\net6.0\Custom Methods.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\bin\Debug\net6.0\Custom Methods.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\refint\Custom Methods.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\Custom Methods.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 2\Custom Methods\obj\Debug\net6.0\ref\Custom Methods.dll

@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Custom Methods/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Custom Methods.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Custom Methods.dll": {}
+        }
+      },
+      "Electric Car Inheritance/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Custom Methods": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Electric Car Inheritance.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Electric Car Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom Methods/1.0.0": {
+      "type": "project",
+      "path": "../../Task 2/Custom Methods/Custom Methods.csproj",
+      "msbuildProject": "../../Task 2/Custom Methods/Custom Methods.csproj"
+    },
+    "Electric Car Inheritance/1.0.0": {
+      "type": "project",
+      "path": "../../Task 3/Electric Car Inheritance/Electric Car Inheritance.csproj",
+      "msbuildProject": "../../Task 3/Electric Car Inheritance/Electric Car Inheritance.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Custom Methods >= 1.0.0",
+      "Electric Car Inheritance >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\zach\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 4\\Car Charging Interface\\Car Charging Interface.csproj",
+      "projectName": "Car Charging Interface",
+      "projectPath": "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 4\\Car Charging Interface\\Car Charging Interface.csproj",
+      "packagesPath": "C:\\Users\\zach\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 4\\Car Charging Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\zach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 2\\Custom Methods\\Custom Methods.csproj": {
+              "projectPath": "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 2\\Custom Methods\\Custom Methods.csproj"
+            },
+            "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 3\\Electric Car Inheritance\\Electric Car Inheritance.csproj": {
+              "projectPath": "C:\\Users\\zach\\Documents\\Git Repos\\CSharpLearning\\02-Object-Oriented-Programming\\Task 3\\Electric Car Inheritance\\Electric Car Inheritance.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\bin\Debug\net6.0\Car Dealership Manager.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\bin\Debug\net6.0\Car Dealership Manager.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\bin\Debug\net6.0\Car Dealership Manager.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\bin\Debug\net6.0\Car Dealership Manager.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\bin\Debug\net6.0\Car Dealership Manager.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\refint\Car Dealership Manager.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\Car Dealership Manager.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 6\Car Dealership Manager\obj\Debug\net6.0\ref\Car Dealership Manager.dll

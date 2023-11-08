@@ -1,0 +1,26 @@
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Custom Methods.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Custom Methods.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Custom Methods.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Electric Car Inheritance.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Electric Car Inheritance.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Electric Car Inheritance.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Car Charging Interface.exe
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Car Charging Interface.deps.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Car Charging Interface.runtimeconfig.json
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Car Charging Interface.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Car Charging Interface.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Custom Methods.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Electric Car Inheritance.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Custom Methods.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\bin\Debug\net6.0\Electric Car Inheritance.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.csproj.AssemblyReference.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.AssemblyInfoInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.AssemblyInfo.cs
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.csproj.CoreCompileInputs.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.csproj.CopyComplete
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\refint\Car Charging Interface.dll
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.pdb
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\Car Charging Interface.genruntimeconfig.cache
+C:\Users\zach\Documents\Git Repos\CSharpLearning\02-Object-Oriented-Programming\Task 4\Car Charging Interface\obj\Debug\net6.0\ref\Car Charging Interface.dll

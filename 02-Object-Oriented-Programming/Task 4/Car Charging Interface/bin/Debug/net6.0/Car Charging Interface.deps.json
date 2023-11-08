@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Car Charging Interface/1.0.0": {
+        "runtime": {
+          "Car Charging Interface.dll": {}
+        }
+      },
+      "Custom Methods/1.0.0": {
+        "runtime": {
+          "Custom Methods.dll": {}
+        }
+      },
+      "Electric Car Inheritance/1.0.0": {
+        "dependencies": {
+          "Custom Methods": "1.0.0"
+        },
+        "runtime": {
+          "Electric Car Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Car Charging Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Custom Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Electric Car Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
