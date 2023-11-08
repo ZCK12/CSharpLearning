@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dea42ae8a420ad3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b79cac0bf217820c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c169c2e48bee3566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48fb9d586be33bd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Object-Oriented-Programming/Task 2/Custom Methods Program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22c588ab2ce3a163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-CSharp-Basics/Task 4/Postive Negative Zero Program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62571606cb2b0217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md",
+                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md",
+                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md",
+                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md"
+                "file": "02-Object-Oriented-Programming/Task 5/Encapsulation.md"
               }
             }
           }
@@ -207,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62571606cb2b0217",
+  "active": "8dfc9f8db8350a65",
   "lastOpenFiles": [
-    "CSharpLearning.7z",
-    "CSharpLearning.7z.tmp",
-    "02-Object-Oriented-Programming/Task 4/Car Charging Interface/bin/Debug/net6.0/Electric Car Inheritance.deps.json",
-    "02-Object-Oriented-Programming/Task 4/Car Charging Interface/bin/Debug/net6.0/Custom Methods.runtimeconfig.json",
-    "02-Object-Oriented-Programming/Task 4/Car Charging Interface/bin/Debug/net6.0/Custom Methods.exe",
-    "02-Object-Oriented-Programming/Task 4/Car Charging Interface/bin/Debug/net6.0/Custom Methods.deps.json",
-    "02-Object-Oriented-Programming/Task 4/Car Charging Interface/bin/Debug/net6.0/Car Charging Interface.exe",
-    "02-Object-Oriented-Programming/Task 1/classes and objects/obj/project.nuget.cache",
-    "02-Object-Oriented-Programming/Task 1/classes and objects/obj/project.assets.json",
-    "02-Object-Oriented-Programming/Task 1/classes and objects/obj/classes and objects.csproj.nuget.g.targets",
-    "02-Object-Oriented-Programming/Task 1/classes and objects/obj/classes and objects.csproj.nuget.g.props",
-    "02-Object-Oriented-Programming/Task 6/List Collections.md",
-    "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md",
-    "01-CSharp-Basics/Task 4/Postive Negative Zero Program.md",
-    "02-Object-Oriented-Programming/Task 2/Custom Methods Program.md",
-    "02-Object-Oriented-Programming/Task 5/Encapsulated Car Program.md",
-    "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
+    "02-Object-Oriented-Programming/Task 5/Encapsulated Car/bin/Debug/net6.0",
+    "02-Object-Oriented-Programming/Task 5/Encapsulated Car/bin/Debug",
+    "02-Object-Oriented-Programming/Task 5/Encapsulated Car/bin",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Debug/net6.0/Car Dealership Manager.pdb",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Debug/net6.0/Car Dealership Manager.genruntimeconfig.cache",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Car Dealership Manager.csproj.nuget.g.props",
     "02-Object-Oriented-Programming/Task 5/Access Modifiers.md",
+    "CSharpLearning.7z",
+    "02-Object-Oriented-Programming/Task 4/Charging Interface Program.md",
+    "01-CSharp-Basics/Chapter Overview and Tasks.md",
+    "01-CSharp-Basics/Task 4/Postive Negative Zero Program.md",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Debug/net6.0/ref/Car Dealership Manager.dll",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/obj/Debug/net6.0/ref",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/bin/Debug/net6.0/Car Dealership Manager.runtimeconfig.json",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Manager/bin/Debug/net6.0/Car Dealership Manager.pdb",
     "02-Object-Oriented-Programming/Task 5/Encapsulation.md",
     "02-Object-Oriented-Programming/Task 4/Sub-classing.md",
-    "02-Object-Oriented-Programming/Task 4/Charging Interface Program.md",
     "02-Object-Oriented-Programming/Task 4/Interfaces.md",
+    "02-Object-Oriented-Programming/Task 3/Virtual Keyword.md",
+    "02-Object-Oriented-Programming/Task 3/Polymorphism.md",
     "02-Object-Oriented-Programming/Task 3/Expression-bodied properties.md",
     "02-Object-Oriented-Programming/Task 3/Electric Car Program.md",
-    "02-Object-Oriented-Programming/Task 3/Polymorphism.md",
-    "02-Object-Oriented-Programming/Task 3/Virtual Keyword.md",
+    "02-Object-Oriented-Programming/Task 2/Custom Methods Program.md",
     "02-Object-Oriented-Programming/Task 1/Properties and Accessors.md",
-    "02-Object-Oriented-Programming/Task 1/Custom Classes.md",
-    "02-Object-Oriented-Programming/Task 1/Classes and Objects Program.md",
-    "02-Object-Oriented-Programming/Task 1/Class Methods.md",
-    "01-CSharp-Basics/Task 2/Classes.md",
     "02-Object-Oriented-Programming/Task 1/Main String Args.md",
+    "02-Object-Oriented-Programming/Task 1/Classes and Objects Program.md",
+    "02-Object-Oriented-Programming/Task 1/Custom Classes.md",
+    "02-Object-Oriented-Programming/Task 1/Class Methods.md",
+    "02-Object-Oriented-Programming/Chapter Overview and Tasks.md",
+    "02-Object-Oriented-Programming/README.md",
+    "02-Object-Oriented-Programming/Task 6/Car Dealership Program.md",
+    "02-Object-Oriented-Programming/Task 6/List Collections.md",
+    "02-Object-Oriented-Programming/Task 5/Encapsulated Car Program.md",
+    "01-CSharp-Basics/Task 2/Classes.md",
     "01-CSharp-Basics/Dot Net.md",
-    "01-CSharp-Basics/Chapter Overview and Tasks.md",
-    "01-CSharp-Basics/Task 2/Namespaces.md",
-    "01-CSharp-Basics/Task 2/Hello World Program.md"
+    "01-CSharp-Basics/Task 2/Namespaces.md"
   ]
 }
